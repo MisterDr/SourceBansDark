@@ -179,7 +179,6 @@
 								<label class="badge badge-warning">
 							{/if}
 							{$ban.banlength}</label>
-							{$ban_times[$index].name}
 						</td>
 						{if $list_progress}
 						<td class="text-danger">
